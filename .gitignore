@@ -131,3 +131,5 @@ dmypy.json
 # credentials folder
 credentials/
 
+# accounts log file
+accounts.json
