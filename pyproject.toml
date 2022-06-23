@@ -10,6 +10,7 @@ python = "^3.7"
 google-api-python-client = "^2.50.0"
 google-auth-httplib2 = "^0.1.0"
 google-auth-oauthlib = "^0.5.1"
+typer = "^0.4.1"
 
 [tool.poetry.dev-dependencies]
 jupyterlab = "^3.4.2"
