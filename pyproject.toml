@@ -14,6 +14,7 @@ typer = "^0.4.1"
 
 [tool.poetry.dev-dependencies]
 jupyterlab = "^3.4.2"
+Faker = "^13.14.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
